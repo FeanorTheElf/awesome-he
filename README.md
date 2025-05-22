@@ -52,6 +52,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [TenSEAL](https://github.com/OpenMined/TenSEAL) - Library for HE operations on tensors, built on [Microsoft SEAL](#SEAL), with a Python API.
 - <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds.</a>
 - [TFHE-rs](https://github.com/zama-ai/tfhe-rs) - Rust implementation of the TFHE scheme for boolean and integers FHE arithmetics by [Zama](https://github.com/zama-ai).
+- [Fheanor](https://github.com/FeanorTheElf/Fheanor) - Rust implementation of BGV, BFV and CLPX/GBFV, with explicit support for designing new schemes and modifying existing ones. 
 
 ## Toolkits
 
